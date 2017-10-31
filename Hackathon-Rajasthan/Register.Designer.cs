@@ -125,6 +125,7 @@
             this.regEmail.Name = "regEmail";
             this.regEmail.Size = new System.Drawing.Size(268, 30);
             this.regEmail.TabIndex = 24;
+            
             this.regEmail.TextChanged += new System.EventHandler(this.regEmail_TextChanged);
             // 
             // reg_pass
